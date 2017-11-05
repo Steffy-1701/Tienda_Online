@@ -29,11 +29,11 @@
 				</center>
 			</td>
 
-			<!-- <td >
+			<td >
 				<center>
 					<a href ="Consulta.php">CONSULTA</a>
 				</center>
-			</td> -->
+			</td>
 
 		</body>	
 	</table>
