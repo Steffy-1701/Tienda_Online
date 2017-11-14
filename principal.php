@@ -29,7 +29,15 @@
 				</center>
 			</td>
 
+<<<<<<< HEAD
 			
+=======
+			<!--<td >
+				<center>
+					<a href ="Consulta.php">CONSULTAR</a>
+				</center>
+			</td>-->
+>>>>>>> 366d611457f6e56502eb12d1c69d1120b9f2262c
 
 		</body>	
 	</table>
