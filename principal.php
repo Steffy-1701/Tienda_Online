@@ -29,7 +29,7 @@
 				</center>
 			</td>
 
-			<--<td >
+			<!--<td >
 				<center>
 					<a href ="Consulta.php">CONSULTAR</a>
 				</center>
