@@ -31,7 +31,7 @@
 
 			<td >
 				<center>
-					<a href ="Consulta.php">CONSULTAR</a>
+					<a href ="Consulta.php">CONSULTARE</a>
 				</center>
 			</td>
 
